@@ -18,7 +18,7 @@ public class Caso9B {
 			System.out.println("Registro [" + num_reg + "]: ");
 			System.out.println("---------------");
 			
-			System.out.print("Nombre del almuno: ");
+			System.out.print("Nombre del alumno: ");
 			nombre = sc.nextLine();
 			
 			System.out.print("Nota 1: ");
